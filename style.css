@@ -1,0 +1,20 @@
+/*
+
+Theme Name: portifolio_thema   
+Theme URI: https://website.com/portifolio    
+Author: Diogo Oliveira
+Author URI: https://website.com/portifolio  
+Description: Apresentação de portifólio
+Requires at least: 5.6
+Tested up to: 5.9
+Requires PHP:  8.0.0
+Version:  8.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:portifolio_thema
+Tags: one-column, custom-menu, custom-logo, featured-images, translation-ready
+
+*/
+
+body{background-color: slategray !important;
+}
